@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#.Education\2.HelloUser\bin\Debug\net6.0\2.HelloUser.exe
+C:\Users\Sergey\Desktop\C#.Education\2.HelloUser\bin\Debug\net6.0\2.HelloUser.deps.json
+C:\Users\Sergey\Desktop\C#.Education\2.HelloUser\bin\Debug\net6.0\2.HelloUser.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#.Education\2.HelloUser\bin\Debug\net6.0\2.HelloUser.dll
+C:\Users\Sergey\Desktop\C#.Education\2.HelloUser\bin\Debug\net6.0\2.HelloUser.pdb
+C:\Users\Sergey\Desktop\C#.Education\2.HelloUser\obj\Debug\net6.0\2.HelloUser.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#.Education\2.HelloUser\obj\Debug\net6.0\2.HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#.Education\2.HelloUser\obj\Debug\net6.0\2.HelloUser.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\2.HelloUser\obj\Debug\net6.0\2.HelloUser.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#.Education\2.HelloUser\obj\Debug\net6.0\2.HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\2.HelloUser\obj\Debug\net6.0\2.HelloUser.dll
+C:\Users\Sergey\Desktop\C#.Education\2.HelloUser\obj\Debug\net6.0\refint\2.HelloUser.dll
+C:\Users\Sergey\Desktop\C#.Education\2.HelloUser\obj\Debug\net6.0\2.HelloUser.pdb
+C:\Users\Sergey\Desktop\C#.Education\2.HelloUser\obj\Debug\net6.0\2.HelloUser.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#.Education\2.HelloUser\obj\Debug\net6.0\ref\2.HelloUser.dll
