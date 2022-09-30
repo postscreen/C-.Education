@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#.Education\4.DivideNumericOnNumeric\bin\Debug\net6.0\4.DivideNumericOnNumeric.exe
+C:\Users\Sergey\Desktop\C#.Education\4.DivideNumericOnNumeric\bin\Debug\net6.0\4.DivideNumericOnNumeric.deps.json
+C:\Users\Sergey\Desktop\C#.Education\4.DivideNumericOnNumeric\bin\Debug\net6.0\4.DivideNumericOnNumeric.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#.Education\4.DivideNumericOnNumeric\bin\Debug\net6.0\4.DivideNumericOnNumeric.dll
+C:\Users\Sergey\Desktop\C#.Education\4.DivideNumericOnNumeric\bin\Debug\net6.0\4.DivideNumericOnNumeric.pdb
+C:\Users\Sergey\Desktop\C#.Education\4.DivideNumericOnNumeric\obj\Debug\net6.0\4.DivideNumericOnNumeric.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#.Education\4.DivideNumericOnNumeric\obj\Debug\net6.0\4.DivideNumericOnNumeric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#.Education\4.DivideNumericOnNumeric\obj\Debug\net6.0\4.DivideNumericOnNumeric.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\4.DivideNumericOnNumeric\obj\Debug\net6.0\4.DivideNumericOnNumeric.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#.Education\4.DivideNumericOnNumeric\obj\Debug\net6.0\4.DivideNumericOnNumeric.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\4.DivideNumericOnNumeric\obj\Debug\net6.0\4.DivideNumericOnNumeric.dll
+C:\Users\Sergey\Desktop\C#.Education\4.DivideNumericOnNumeric\obj\Debug\net6.0\refint\4.DivideNumericOnNumeric.dll
+C:\Users\Sergey\Desktop\C#.Education\4.DivideNumericOnNumeric\obj\Debug\net6.0\4.DivideNumericOnNumeric.pdb
+C:\Users\Sergey\Desktop\C#.Education\4.DivideNumericOnNumeric\obj\Debug\net6.0\4.DivideNumericOnNumeric.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#.Education\4.DivideNumericOnNumeric\obj\Debug\net6.0\ref\4.DivideNumericOnNumeric.dll
