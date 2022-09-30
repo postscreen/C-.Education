@@ -9,55 +9,55 @@ while(repeat){
     // Task number 2  ... 
     if (taskNumber == 2){
 
-        Console.Write(" === Search maximum of two value === ");
+        Console.WriteLine(" === Search maximum of two value === \r\n");
 
-        Console.Write("Insert first number: ");
+        Console.Write("\tInsert first number: ");
         int a = int.Parse(Console.ReadLine());
 
-        Console.Write("Insert second number: ");
+        Console.Write("\tInsert second number: ");
         int b = int.Parse(Console.ReadLine());
 
         int max = a > b ? a : b;
-        Console.WriteLine(string.Format("Max numeric is: {0}", max));
+        Console.WriteLine(string.Format("\tMax numeric is: {0}", max));
 
     }
 
     if(taskNumber == 4){
 
-        Console.Write(" === Search maximum of three value === ");
+        Console.WriteLine(" === Search maximum of three value === \r\n");
 
-        Console.Write("Insert first number: ");
+        Console.Write("\tInsert first number: ");
         int a = int.Parse(Console.ReadLine());
 
-        Console.Write("Insert second number: ");
+        Console.Write("\tInsert second number: ");
         int b = int.Parse(Console.ReadLine());
 
-        Console.Write("Insert third number: ");
+        Console.Write("\tInsert third number: ");
         int c = int.Parse(Console.ReadLine());    
 
         int max = a > b ? (a > c ? a : c) : (b > c ? b : c);
-        Console.WriteLine(string.Format("Max numeric is: {0}", max));
+        Console.WriteLine(string.Format("\tMax numeric is: {0}", max));
 
     }
 
     if(taskNumber == 6){
 
-        Console.Write("Insert number to check EVEN/UNEVEN state: ");
+        Console.WriteLine("\tInsert number to check EVEN/UNEVEN state: ");
         int a = int.Parse(Console.ReadLine());
-        string Answer = a % 2 == 0 ? "It's EVEN numeric" : "It's UNEVEN numeric";
+        string Answer = a % 2 == 0 ? "\tIt's EVEN numeric" : "\tIt's UNEVEN numeric";
         Console.WriteLine(Answer);
 
     }
 
     if(taskNumber == 8){
 
-        Console.Write("Insert number to show all even numerics before it: ");
+        Console.WriteLine("\tInsert number to show all even numerics before it: ");
         int a = int.Parse(Console.ReadLine());
         int i = 0;
         while(i < a){
 
             if(i % 2 == 0 && i != 0)
-                Console.WriteLine(string.Format("Numeric {0} is EVEN ... ", i));
+                Console.WriteLine(string.Format("\tNumeric {0} is EVEN ... ", i));
 
             i++;
 
@@ -65,12 +65,12 @@ while(repeat){
 
     }
 
-    Console.WriteLine("Press ESC to end or any key to continious ... ");
+    Console.WriteLine("\tPress ESC to end or any key to continious ... ");
     var e = Console.ReadKey().Key;
     if(ConsoleKey.Escape == e)
         repeat = false;
     else
-        Console.WriteLine("=======================================================================");
+        Console.WriteLine("\r\n=======================================================================\r\n");
 
+    Console.Clear();
 }
-
