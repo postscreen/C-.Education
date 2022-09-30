@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#.Education\3.SumOfTwo\bin\Debug\net6.0\3.SumOfTwo.exe
+C:\Users\Sergey\Desktop\C#.Education\3.SumOfTwo\bin\Debug\net6.0\3.SumOfTwo.deps.json
+C:\Users\Sergey\Desktop\C#.Education\3.SumOfTwo\bin\Debug\net6.0\3.SumOfTwo.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#.Education\3.SumOfTwo\bin\Debug\net6.0\3.SumOfTwo.dll
+C:\Users\Sergey\Desktop\C#.Education\3.SumOfTwo\bin\Debug\net6.0\3.SumOfTwo.pdb
+C:\Users\Sergey\Desktop\C#.Education\3.SumOfTwo\obj\Debug\net6.0\3.SumOfTwo.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#.Education\3.SumOfTwo\obj\Debug\net6.0\3.SumOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#.Education\3.SumOfTwo\obj\Debug\net6.0\3.SumOfTwo.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\3.SumOfTwo\obj\Debug\net6.0\3.SumOfTwo.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#.Education\3.SumOfTwo\obj\Debug\net6.0\3.SumOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\3.SumOfTwo\obj\Debug\net6.0\3.SumOfTwo.dll
+C:\Users\Sergey\Desktop\C#.Education\3.SumOfTwo\obj\Debug\net6.0\refint\3.SumOfTwo.dll
+C:\Users\Sergey\Desktop\C#.Education\3.SumOfTwo\obj\Debug\net6.0\3.SumOfTwo.pdb
+C:\Users\Sergey\Desktop\C#.Education\3.SumOfTwo\obj\Debug\net6.0\3.SumOfTwo.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#.Education\3.SumOfTwo\obj\Debug\net6.0\ref\3.SumOfTwo.dll
