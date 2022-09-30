@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#.Education\6.MaxValue\bin\Debug\net6.0\6.MaxValue.exe
+C:\Users\Sergey\Desktop\C#.Education\6.MaxValue\bin\Debug\net6.0\6.MaxValue.deps.json
+C:\Users\Sergey\Desktop\C#.Education\6.MaxValue\bin\Debug\net6.0\6.MaxValue.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#.Education\6.MaxValue\bin\Debug\net6.0\6.MaxValue.dll
+C:\Users\Sergey\Desktop\C#.Education\6.MaxValue\bin\Debug\net6.0\6.MaxValue.pdb
+C:\Users\Sergey\Desktop\C#.Education\6.MaxValue\obj\Debug\net6.0\6.MaxValue.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#.Education\6.MaxValue\obj\Debug\net6.0\6.MaxValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#.Education\6.MaxValue\obj\Debug\net6.0\6.MaxValue.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\6.MaxValue\obj\Debug\net6.0\6.MaxValue.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#.Education\6.MaxValue\obj\Debug\net6.0\6.MaxValue.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\6.MaxValue\obj\Debug\net6.0\6.MaxValue.dll
+C:\Users\Sergey\Desktop\C#.Education\6.MaxValue\obj\Debug\net6.0\refint\6.MaxValue.dll
+C:\Users\Sergey\Desktop\C#.Education\6.MaxValue\obj\Debug\net6.0\6.MaxValue.pdb
+C:\Users\Sergey\Desktop\C#.Education\6.MaxValue\obj\Debug\net6.0\6.MaxValue.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#.Education\6.MaxValue\obj\Debug\net6.0\ref\6.MaxValue.dll
