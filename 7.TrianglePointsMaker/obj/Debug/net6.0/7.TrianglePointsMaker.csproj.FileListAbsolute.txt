@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#.Education\7.TrianglePointsMaker\bin\Debug\net6.0\7.TrianglePointsMaker.exe
+C:\Users\Sergey\Desktop\C#.Education\7.TrianglePointsMaker\bin\Debug\net6.0\7.TrianglePointsMaker.deps.json
+C:\Users\Sergey\Desktop\C#.Education\7.TrianglePointsMaker\bin\Debug\net6.0\7.TrianglePointsMaker.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#.Education\7.TrianglePointsMaker\bin\Debug\net6.0\7.TrianglePointsMaker.dll
+C:\Users\Sergey\Desktop\C#.Education\7.TrianglePointsMaker\bin\Debug\net6.0\7.TrianglePointsMaker.pdb
+C:\Users\Sergey\Desktop\C#.Education\7.TrianglePointsMaker\obj\Debug\net6.0\7.TrianglePointsMaker.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#.Education\7.TrianglePointsMaker\obj\Debug\net6.0\7.TrianglePointsMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#.Education\7.TrianglePointsMaker\obj\Debug\net6.0\7.TrianglePointsMaker.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\7.TrianglePointsMaker\obj\Debug\net6.0\7.TrianglePointsMaker.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#.Education\7.TrianglePointsMaker\obj\Debug\net6.0\7.TrianglePointsMaker.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\7.TrianglePointsMaker\obj\Debug\net6.0\7.TrianglePointsMaker.dll
+C:\Users\Sergey\Desktop\C#.Education\7.TrianglePointsMaker\obj\Debug\net6.0\refint\7.TrianglePointsMaker.dll
+C:\Users\Sergey\Desktop\C#.Education\7.TrianglePointsMaker\obj\Debug\net6.0\7.TrianglePointsMaker.pdb
+C:\Users\Sergey\Desktop\C#.Education\7.TrianglePointsMaker\obj\Debug\net6.0\7.TrianglePointsMaker.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#.Education\7.TrianglePointsMaker\obj\Debug\net6.0\ref\7.TrianglePointsMaker.dll
