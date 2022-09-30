@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#.Education\8.FirstHomework\obj\Debug\net6.0\8.FirstHomework.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#.Education\8.FirstHomework\obj\Debug\net6.0\8.FirstHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#.Education\8.FirstHomework\obj\Debug\net6.0\8.FirstHomework.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\8.FirstHomework\obj\Debug\net6.0\8.FirstHomework.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#.Education\8.FirstHomework\obj\Debug\net6.0\8.FirstHomework.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\8.FirstHomework\bin\Debug\net6.0\8.FirstHomework.exe
+C:\Users\Sergey\Desktop\C#.Education\8.FirstHomework\bin\Debug\net6.0\8.FirstHomework.deps.json
+C:\Users\Sergey\Desktop\C#.Education\8.FirstHomework\bin\Debug\net6.0\8.FirstHomework.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#.Education\8.FirstHomework\bin\Debug\net6.0\8.FirstHomework.dll
+C:\Users\Sergey\Desktop\C#.Education\8.FirstHomework\bin\Debug\net6.0\8.FirstHomework.pdb
+C:\Users\Sergey\Desktop\C#.Education\8.FirstHomework\obj\Debug\net6.0\8.FirstHomework.dll
+C:\Users\Sergey\Desktop\C#.Education\8.FirstHomework\obj\Debug\net6.0\refint\8.FirstHomework.dll
+C:\Users\Sergey\Desktop\C#.Education\8.FirstHomework\obj\Debug\net6.0\8.FirstHomework.pdb
+C:\Users\Sergey\Desktop\C#.Education\8.FirstHomework\obj\Debug\net6.0\8.FirstHomework.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#.Education\8.FirstHomework\obj\Debug\net6.0\ref\8.FirstHomework.dll
