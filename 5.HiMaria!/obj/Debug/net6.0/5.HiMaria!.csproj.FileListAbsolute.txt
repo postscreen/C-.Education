@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#.Education\5.HiMaria!\obj\Debug\net6.0\5.HiMaria!.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#.Education\5.HiMaria!\obj\Debug\net6.0\5.HiMaria!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#.Education\5.HiMaria!\obj\Debug\net6.0\5.HiMaria!.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\5.HiMaria!\obj\Debug\net6.0\5.HiMaria!.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#.Education\5.HiMaria!\obj\Debug\net6.0\5.HiMaria!.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\5.HiMaria!\bin\Debug\net6.0\5.HiMaria!.exe
+C:\Users\Sergey\Desktop\C#.Education\5.HiMaria!\bin\Debug\net6.0\5.HiMaria!.deps.json
+C:\Users\Sergey\Desktop\C#.Education\5.HiMaria!\bin\Debug\net6.0\5.HiMaria!.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#.Education\5.HiMaria!\bin\Debug\net6.0\5.HiMaria!.dll
+C:\Users\Sergey\Desktop\C#.Education\5.HiMaria!\bin\Debug\net6.0\5.HiMaria!.pdb
+C:\Users\Sergey\Desktop\C#.Education\5.HiMaria!\obj\Debug\net6.0\5.HiMaria!.dll
+C:\Users\Sergey\Desktop\C#.Education\5.HiMaria!\obj\Debug\net6.0\refint\5.HiMaria!.dll
+C:\Users\Sergey\Desktop\C#.Education\5.HiMaria!\obj\Debug\net6.0\5.HiMaria!.pdb
+C:\Users\Sergey\Desktop\C#.Education\5.HiMaria!\obj\Debug\net6.0\5.HiMaria!.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#.Education\5.HiMaria!\obj\Debug\net6.0\ref\5.HiMaria!.dll
