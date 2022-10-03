@@ -13,10 +13,11 @@ Console.WriteLine("+");
 Console.SetCursorPosition(xc, yc);
 Console.WriteLine("+");
 
+
 int i = 0,
     x = xa, y = ya;
 
-while(i < 20000){
+while(i < 10000){
 
     int what = new Random().Next(0,3);
 
