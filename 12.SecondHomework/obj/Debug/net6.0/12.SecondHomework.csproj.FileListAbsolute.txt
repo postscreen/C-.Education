@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#.Education\12.SecondHomework\obj\Debug\net6.0\12.SecondHomework.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#.Education\12.SecondHomework\obj\Debug\net6.0\12.SecondHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#.Education\12.SecondHomework\obj\Debug\net6.0\12.SecondHomework.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\12.SecondHomework\obj\Debug\net6.0\12.SecondHomework.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#.Education\12.SecondHomework\obj\Debug\net6.0\12.SecondHomework.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\12.SecondHomework\bin\Debug\net6.0\12.SecondHomework.exe
+C:\Users\Sergey\Desktop\C#.Education\12.SecondHomework\bin\Debug\net6.0\12.SecondHomework.deps.json
+C:\Users\Sergey\Desktop\C#.Education\12.SecondHomework\bin\Debug\net6.0\12.SecondHomework.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#.Education\12.SecondHomework\bin\Debug\net6.0\12.SecondHomework.dll
+C:\Users\Sergey\Desktop\C#.Education\12.SecondHomework\bin\Debug\net6.0\12.SecondHomework.pdb
+C:\Users\Sergey\Desktop\C#.Education\12.SecondHomework\obj\Debug\net6.0\12.SecondHomework.dll
+C:\Users\Sergey\Desktop\C#.Education\12.SecondHomework\obj\Debug\net6.0\refint\12.SecondHomework.dll
+C:\Users\Sergey\Desktop\C#.Education\12.SecondHomework\obj\Debug\net6.0\12.SecondHomework.pdb
+C:\Users\Sergey\Desktop\C#.Education\12.SecondHomework\obj\Debug\net6.0\12.SecondHomework.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#.Education\12.SecondHomework\obj\Debug\net6.0\ref\12.SecondHomework.dll
