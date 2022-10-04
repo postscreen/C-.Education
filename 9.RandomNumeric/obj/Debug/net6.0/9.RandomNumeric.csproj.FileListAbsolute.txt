@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#.Education\9.RandomNumeric\obj\Debug\net6.0\9.RandomNumeric.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#.Education\9.RandomNumeric\obj\Debug\net6.0\9.RandomNumeric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#.Education\9.RandomNumeric\obj\Debug\net6.0\9.RandomNumeric.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\9.RandomNumeric\obj\Debug\net6.0\9.RandomNumeric.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#.Education\9.RandomNumeric\obj\Debug\net6.0\9.RandomNumeric.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\9.RandomNumeric\bin\Debug\net6.0\9.RandomNumeric.exe
+C:\Users\Sergey\Desktop\C#.Education\9.RandomNumeric\bin\Debug\net6.0\9.RandomNumeric.deps.json
+C:\Users\Sergey\Desktop\C#.Education\9.RandomNumeric\bin\Debug\net6.0\9.RandomNumeric.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#.Education\9.RandomNumeric\bin\Debug\net6.0\9.RandomNumeric.dll
+C:\Users\Sergey\Desktop\C#.Education\9.RandomNumeric\bin\Debug\net6.0\9.RandomNumeric.pdb
+C:\Users\Sergey\Desktop\C#.Education\9.RandomNumeric\obj\Debug\net6.0\9.RandomNumeric.dll
+C:\Users\Sergey\Desktop\C#.Education\9.RandomNumeric\obj\Debug\net6.0\refint\9.RandomNumeric.dll
+C:\Users\Sergey\Desktop\C#.Education\9.RandomNumeric\obj\Debug\net6.0\9.RandomNumeric.pdb
+C:\Users\Sergey\Desktop\C#.Education\9.RandomNumeric\obj\Debug\net6.0\9.RandomNumeric.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#.Education\9.RandomNumeric\obj\Debug\net6.0\ref\9.RandomNumeric.dll

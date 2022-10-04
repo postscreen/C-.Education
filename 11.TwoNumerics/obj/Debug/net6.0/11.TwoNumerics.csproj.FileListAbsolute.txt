@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#.Education\11.TwoNumerics\bin\Debug\net6.0\11.TwoNumerics.exe
+C:\Users\Sergey\Desktop\C#.Education\11.TwoNumerics\bin\Debug\net6.0\11.TwoNumerics.deps.json
+C:\Users\Sergey\Desktop\C#.Education\11.TwoNumerics\bin\Debug\net6.0\11.TwoNumerics.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#.Education\11.TwoNumerics\bin\Debug\net6.0\11.TwoNumerics.dll
+C:\Users\Sergey\Desktop\C#.Education\11.TwoNumerics\bin\Debug\net6.0\11.TwoNumerics.pdb
+C:\Users\Sergey\Desktop\C#.Education\11.TwoNumerics\obj\Debug\net6.0\11.TwoNumerics.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#.Education\11.TwoNumerics\obj\Debug\net6.0\11.TwoNumerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#.Education\11.TwoNumerics\obj\Debug\net6.0\11.TwoNumerics.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\11.TwoNumerics\obj\Debug\net6.0\11.TwoNumerics.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#.Education\11.TwoNumerics\obj\Debug\net6.0\11.TwoNumerics.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\11.TwoNumerics\obj\Debug\net6.0\11.TwoNumerics.dll
+C:\Users\Sergey\Desktop\C#.Education\11.TwoNumerics\obj\Debug\net6.0\refint\11.TwoNumerics.dll
+C:\Users\Sergey\Desktop\C#.Education\11.TwoNumerics\obj\Debug\net6.0\11.TwoNumerics.pdb
+C:\Users\Sergey\Desktop\C#.Education\11.TwoNumerics\obj\Debug\net6.0\11.TwoNumerics.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#.Education\11.TwoNumerics\obj\Debug\net6.0\ref\11.TwoNumerics.dll

@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#.Education\10.DoubleZeroDiv\obj\Debug\net6.0\10.DoubleZeroDiv.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#.Education\10.DoubleZeroDiv\obj\Debug\net6.0\10.DoubleZeroDiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#.Education\10.DoubleZeroDiv\obj\Debug\net6.0\10.DoubleZeroDiv.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\10.DoubleZeroDiv\obj\Debug\net6.0\10.DoubleZeroDiv.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#.Education\10.DoubleZeroDiv\obj\Debug\net6.0\10.DoubleZeroDiv.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\10.DoubleZeroDiv\bin\Debug\net6.0\10.DoubleZeroDiv.exe
+C:\Users\Sergey\Desktop\C#.Education\10.DoubleZeroDiv\bin\Debug\net6.0\10.DoubleZeroDiv.deps.json
+C:\Users\Sergey\Desktop\C#.Education\10.DoubleZeroDiv\bin\Debug\net6.0\10.DoubleZeroDiv.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#.Education\10.DoubleZeroDiv\bin\Debug\net6.0\10.DoubleZeroDiv.dll
+C:\Users\Sergey\Desktop\C#.Education\10.DoubleZeroDiv\bin\Debug\net6.0\10.DoubleZeroDiv.pdb
+C:\Users\Sergey\Desktop\C#.Education\10.DoubleZeroDiv\obj\Debug\net6.0\10.DoubleZeroDiv.dll
+C:\Users\Sergey\Desktop\C#.Education\10.DoubleZeroDiv\obj\Debug\net6.0\refint\10.DoubleZeroDiv.dll
+C:\Users\Sergey\Desktop\C#.Education\10.DoubleZeroDiv\obj\Debug\net6.0\10.DoubleZeroDiv.pdb
+C:\Users\Sergey\Desktop\C#.Education\10.DoubleZeroDiv\obj\Debug\net6.0\10.DoubleZeroDiv.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#.Education\10.DoubleZeroDiv\obj\Debug\net6.0\ref\10.DoubleZeroDiv.dll
