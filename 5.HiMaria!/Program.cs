@@ -1,12 +1,17 @@
 ﻿Console.WriteLine("Pleace insert name ... ");
-string UserName = Console.ReadLine();
+string? UserName = Console.ReadLine();
 
-if(UserName.ToLower() == "maria"){
+if(UserName != null){
 
-    Console.WriteLine("Great! It's Maria!");
+    if(UserName.ToLower() == "maria"){
 
-} else {
+        Console.WriteLine("Great! It's Maria!");
 
-    Console.WriteLine(string.Format("Hi, {0}!", UserName));
+    } else {
+
+        Console.WriteLine(string.Format("Hi, {0}!", UserName));
+
+    }
 
 }
+

@@ -10,10 +10,12 @@ void Task10(){
     while(taskRepeat){
 
         bool itsNumeric = int.TryParse(Console.ReadLine(), out threeDigitsNumeric);
-        if(threeDigitsNumeric == 0)
-            break;
 
         if(itsNumeric){
+
+            // Check that I got really zero from console ... 
+            if(threeDigitsNumeric == 0)
+                break;
 
             if(threeDigitsNumeric >= 100 && threeDigitsNumeric < 1000){
                 Console.WriteLine($"Result for numeric {threeDigitsNumeric} = {threeDigitsNumeric.ToString().Substring(1,1)}");
@@ -38,15 +40,19 @@ void Task13(){
     while(taskRepeat){
 
         bool itsNumeric = Int64.TryParse(Console.ReadLine(), out incomingNumeric);
-        if(incomingNumeric == 0)
-            break;
 
-        if(itsNumeric)
+        if(itsNumeric){
+
+            // Check that I got really zero from console ... 
+            if(incomingNumeric == 0)
+                break;
+
             if(incomingNumeric.ToString().Length >= 3)
                 Console.WriteLine($"Result for numeric {incomingNumeric} = {incomingNumeric.ToString().Substring(2,1)}");
             else
-                Console.WriteLine($"Your numeric haven't third digit");
-        else
+                Console.WriteLine($"Your numeric haven't third digit. Insert ZERO to ESC.");
+
+        } else
             Console.WriteLine("It's not numeric! Insert ZERO to ESC.");
 
     }     
@@ -61,10 +67,13 @@ void Task15(){
     while(taskRepeat){
 
         bool itsNumeric = int.TryParse(Console.ReadLine(), out incomingWeekDay);
-        if(incomingWeekDay == 0)
-            break;
 
-        if(itsNumeric)
+        if(itsNumeric){
+
+            // Check that I got really zero from console ... 
+            if(incomingWeekDay == 0)
+                break;
+
             if(incomingWeekDay >= 1 && incomingWeekDay <= 5)
                 Console.WriteLine($"It's {incomingWeekDay} = we are going to the job! Insert ZERO to ESC.");
 
@@ -73,6 +82,9 @@ void Task15(){
 
             else
                 Console.WriteLine($"Your numeric out of range [1,7]. Insert ZERO to ESC.");
+
+        }
+
         else
             Console.WriteLine("It's not numeric! Insert ZERO to ESC.");
 
