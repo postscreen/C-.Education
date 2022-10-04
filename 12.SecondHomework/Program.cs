@@ -47,9 +47,10 @@ void Task13(){
             if(incomingNumeric == 0)
                 break;
 
-            if(incomingNumeric.ToString().Length >= 3)
+            if(incomingNumeric.ToString().Length >= 3){
                 Console.WriteLine($"Result for numeric {incomingNumeric} = {incomingNumeric.ToString().Substring(2,1)}");
-            else
+                break;
+            } else
                 Console.WriteLine($"Your numeric haven't third digit. Insert ZERO to ESC.");
 
         } else
@@ -96,16 +97,23 @@ while(repeat){
 
     // Get task number
     Console.WriteLine("Pleace insert task numeric (from tasks page 10, 13, 15): ");
-    int taskNumber = int.Parse(Console.ReadLine());
+    int taskNumber = 0;
+    bool itsNumeric = int.TryParse(Console.ReadLine(), out taskNumber);
+    if(itsNumeric){
 
-    if (taskNumber == 10)
-        Task10();
+        if (taskNumber == 10)
+            Task10();
 
-    if (taskNumber == 13)
-        Task13();
+        else if (taskNumber == 13)
+            Task13();
 
-    if (taskNumber == 15)
-        Task15();
+        else if (taskNumber == 15)
+            Task15();
+        else
+            Console.WriteLine("Need to insert 10, 13 or 15 ... ");
+
+    } else
+        Console.WriteLine("It's not numeric ... Need to insert 10, 13 or 15 ... ");
 
     Console.WriteLine("\tPress ESC to exit APPLICATION or any key to continious ... ");
     var e = Console.ReadKey().Key;
