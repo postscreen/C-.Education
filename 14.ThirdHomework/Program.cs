@@ -47,10 +47,10 @@ void Task21(){
 
     int i = 0;
     Int64[] income = new Int64[6];
-    Console.WriteLine("Pleace insert point A(x,y,z) and B(x,y,z)! Set numeric + press 'Enter' and repeat it [exclude 0]");
+    Console.WriteLine("Pleace insert point A(x,y,z) and B(x,y,z)! Set numeric + press 'Enter' and repeat it ... ");
 
     while(i <= 5){
-        if(Int64.TryParse(Console.ReadLine(), out income[i]) && income[i] != 0){
+        if(Int64.TryParse(Console.ReadLine(), out income[i])){
             Console.WriteLine($"We are have: A({income[0]},{income[1]},{income[2]}) and B({income[3]},{income[4]},{income[5]})");
             i++;
         } else
