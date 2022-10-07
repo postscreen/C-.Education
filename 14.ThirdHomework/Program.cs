@@ -82,6 +82,7 @@ void Task23(){
                 for(int i =0; i <= positiveNumeric; i++)
                     Console.WriteLine($"{i}^3 => {i*i*i}");
                 Console.WriteLine($"Full list of cubes between 0 and {positiveNumeric}. Insert ZERO to ESC.");
+                break;
             } else
                 Console.WriteLine($"Your numeric is less then zero. Insert ZERO to ESC.");
 
