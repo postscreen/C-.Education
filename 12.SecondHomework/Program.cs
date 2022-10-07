@@ -27,7 +27,7 @@ void Task10(){
         } else
             Console.WriteLine("It's not numeric! Insert ZERO to ESC.");
 
-    }    
+    }
 
 }
 
