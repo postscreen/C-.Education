@@ -45,29 +45,20 @@ void Task19(){
 // Task number 21  ... 
 void Task21(){
 
-    Int64 incomingNumeric = 0;
-    Console.WriteLine("Pleace insert point A(x,y,z) and B(x,y,z)! Insert ZERO to ESC.");
+    int i = 0;
+    Int64[] income = new Int64[6];
+    Console.WriteLine("Pleace insert point A(x,y,z) and B(x,y,z)! Set numeric + press 'Enter' and repeat it [exclude 0]");
 
-    while(taskRepeat){
-
-        bool itsNumeric = Int64.TryParse(Console.ReadLine(), out incomingNumeric);
-
-        if(itsNumeric){
-
-            // Check that I got really zero from console ... 
-            if(incomingNumeric == 0)
-                break;
-
-            if(incomingNumeric.ToString().Length >= 3){
-                Console.WriteLine($"Result ... ");
-                break;
-            } else
-                Console.WriteLine($"Your numeric haven't third digit. Insert ZERO to ESC.");
-
+    while(i <= 5){
+        if(Int64.TryParse(Console.ReadLine(), out income[i]) && income[i] != 0){
+            Console.WriteLine($"We are have: A({income[0]},{income[1]},{income[2]}) and B({income[3]},{income[4]},{income[5]})");
+            i++;
         } else
-            Console.WriteLine("It's not numeric! Insert ZERO to ESC.");
-
+            Console.WriteLine("It's not valid numeric!");
     }     
+
+    double Dist = Math.Sqrt( Math.Pow(income[3] - income[0], 2) + Math.Pow(income[4] - income[1], 2) + Math.Pow(income[5] - income[2], 2) );
+    Console.WriteLine($"Distantion between points = {Dist} units ... ");
 
 }
 
@@ -126,7 +117,7 @@ while(repeat){
     } else
         Console.WriteLine("It's not numeric ... Need to insert 19, 21, 23 ... ");
 
-    Console.WriteLine("\tPress ESC to exit APPLICATION or any key to continious ... ");
+    Console.WriteLine("\r\n\tPress ESC to exit APPLICATION or any key to continious ... ");
     var e = Console.ReadKey().Key;
     if(ConsoleKey.Escape == e)
         repeat = false;
