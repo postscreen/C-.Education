@@ -27,8 +27,8 @@ Int64 A = -1, B = -1, result = 1;
 // Get two numerics for calculate ... 
 while(A < 0 && B < 0){
 
-    A = GetNumeric("Insert A:");
-    B = GetNumeric("Insert B:");
+    A = GetNumeric("Insert natural A:");
+    B = GetNumeric("Insert natural B:");
 
 }
 
