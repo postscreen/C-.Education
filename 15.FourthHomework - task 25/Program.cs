@@ -25,10 +25,13 @@ Console.WriteLine("Insert A and B to get A^B ... ");
 Int64 A = -1, B = -1, result = 1;
 
 // Get two numerics for calculate ... 
-while(A < 0 && B < 0){
+while(A < 0 || B < 0){
 
-    A = GetNumeric("Insert natural A:");
-    B = GetNumeric("Insert natural B:");
+    if(A < 0)
+        A = GetNumeric("Insert natural A:");
+    
+    if(B < 0)
+        B = GetNumeric("Insert natural B:");
 
 }
 
@@ -37,4 +40,4 @@ for(int i = 1; i <= B; i++)
     result = result * A;
 
 // Print result
-Console.WriteLine($"A^B = {result}");
+Console.WriteLine($"{A}^{B} = {result}");
