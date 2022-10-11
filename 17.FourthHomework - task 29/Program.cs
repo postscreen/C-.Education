@@ -18,7 +18,6 @@ for (int i = 0; i < A.Length; i++){
     if(itsNumeric)
         Console.WriteLine($"Element[{i}] = {A[i]}");
     else
-        Console.WriteLine($"Element[{i}] = {A[i]}  // Not critical ERROR, your element isn't numeric!");
+        Console.WriteLine($"Element[{i}] = {A[i]}  [Not critical ERROR, your element isn't numeric!]");
 
 }
-    
