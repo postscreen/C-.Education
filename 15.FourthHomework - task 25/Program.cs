@@ -1,9 +1,9 @@
 ﻿// Function to get correct data from the user each time ...
-int GetNumeric(string msg){
+Int64 GetNumeric(string msg){
 
     Console.WriteLine($"{msg}");
-    int positiveNumeric;
-    bool itsNumeric = int.TryParse(Console.ReadLine(), out positiveNumeric);
+    Int64 positiveNumeric;
+    bool itsNumeric = Int64.TryParse(Console.ReadLine(), out positiveNumeric);
 
     if(itsNumeric)
 
@@ -22,7 +22,7 @@ int GetNumeric(string msg){
 Console.WriteLine("Insert A and B to get A^B ... ");
 
 // Set variables ... 
-int A = -1, B = -1, result = 1;
+Int64 A = -1, B = -1, result = 1;
 
 // Get two numerics for calculate ... 
 while(A < 0 && B < 0){
@@ -35,7 +35,6 @@ while(A < 0 && B < 0){
 // Cycle - important parth of the task
 for(int i = 1; i <= B; i++)
     result = result * A;
-
 
 // Print result
 Console.WriteLine($"A^B = {result}");
