@@ -1,12 +1,17 @@
 ﻿// Show info about programm ...
-Console.WriteLine("Insert array of integers, set comma between numerics: ");
+Console.WriteLine("Insert array of 8 integers, set comma between numerics: ");
 
 // Set variable for save array ... 
 string[] A = new string[0];
 
 // Get data ... 
-while (A.Length <= 0)
+while (A.Length != 8){
+    
     A = Console.ReadLine().ToString().Split(',');
+    if(A.Length != 8)
+        Console.WriteLine($"Count of elements is {A.Length} - need to set 8!");
+
+}
 
 Console.WriteLine($"Total count of elements: {A.Length}");
 
