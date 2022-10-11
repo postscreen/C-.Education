@@ -8,7 +8,6 @@ string[] A = new string[0];
 while (A.Length <= 0)
     A = Console.ReadLine().ToString().Split(',');
 
-
 Console.WriteLine($"Total count of elements: {A.Length}");
 
 // Show array in the cycle ...
