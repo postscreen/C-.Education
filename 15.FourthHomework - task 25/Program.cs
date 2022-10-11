@@ -19,6 +19,8 @@ int GetNumeric(string msg){
 
 }
 
+Console.WriteLine("Insert A and B to get A^B ... ");
+
 // Set variables ... 
 int A = -1, B = -1, result = 1;
 

@@ -9,7 +9,7 @@ while (A.Length <= 0)
     A = Console.ReadLine().ToString().Split(',');
 
 
-Console.WriteLine($"{A.Length}");
+Console.WriteLine($"Total count of elements: {A.Length}");
 
 // Show array in the cycle ...
 for (int i = 0; i < A.Length; i++){
@@ -17,9 +17,9 @@ for (int i = 0; i < A.Length; i++){
     int Numeric;
     bool itsNumeric = int.TryParse(A[i], out Numeric);
     if(itsNumeric)
-        Console.WriteLine($"Element {i} = {A[i]}");
+        Console.WriteLine($"Element[{i}] = {A[i]}");
     else
-        Console.WriteLine($"Element {i} = {A[i]}  // Not critical ERROR, your element isn't numeric!");
+        Console.WriteLine($"Element[{i}] = {A[i]}  // Not critical ERROR, your element isn't numeric!");
 
 }
     

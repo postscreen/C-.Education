@@ -26,7 +26,7 @@ string A = string.Empty;
 
 // Get numeric as string ... 
 while (A.Length <= 0)
-    A = GetNumeric("Insert numeric to sum of digits:");
+    A = GetNumeric("Insert numeric to get sum of digits:");
 
 // Get sum of digits to using a 'for' cycle ...
 for (int i = 0; i < A.Length; i++)
