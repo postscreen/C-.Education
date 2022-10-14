@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#.Education\18.LastTask\bin\Debug\net6.0\18.LastTask.exe
+C:\Users\Sergey\Desktop\C#.Education\18.LastTask\bin\Debug\net6.0\18.LastTask.deps.json
+C:\Users\Sergey\Desktop\C#.Education\18.LastTask\bin\Debug\net6.0\18.LastTask.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#.Education\18.LastTask\bin\Debug\net6.0\18.LastTask.dll
+C:\Users\Sergey\Desktop\C#.Education\18.LastTask\bin\Debug\net6.0\18.LastTask.pdb
+C:\Users\Sergey\Desktop\C#.Education\18.LastTask\obj\Debug\net6.0\18.LastTask.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#.Education\18.LastTask\obj\Debug\net6.0\18.LastTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#.Education\18.LastTask\obj\Debug\net6.0\18.LastTask.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\18.LastTask\obj\Debug\net6.0\18.LastTask.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#.Education\18.LastTask\obj\Debug\net6.0\18.LastTask.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\18.LastTask\obj\Debug\net6.0\18.LastTask.dll
+C:\Users\Sergey\Desktop\C#.Education\18.LastTask\obj\Debug\net6.0\refint\18.LastTask.dll
+C:\Users\Sergey\Desktop\C#.Education\18.LastTask\obj\Debug\net6.0\18.LastTask.pdb
+C:\Users\Sergey\Desktop\C#.Education\18.LastTask\obj\Debug\net6.0\18.LastTask.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#.Education\18.LastTask\obj\Debug\net6.0\ref\18.LastTask.dll

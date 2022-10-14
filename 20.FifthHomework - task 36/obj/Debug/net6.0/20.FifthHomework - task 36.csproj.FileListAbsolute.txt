@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#.Education\20.FifthHomework - task 36\bin\Debug\net6.0\20.FifthHomework - task 36.exe
+C:\Users\Sergey\Desktop\C#.Education\20.FifthHomework - task 36\bin\Debug\net6.0\20.FifthHomework - task 36.deps.json
+C:\Users\Sergey\Desktop\C#.Education\20.FifthHomework - task 36\bin\Debug\net6.0\20.FifthHomework - task 36.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#.Education\20.FifthHomework - task 36\bin\Debug\net6.0\20.FifthHomework - task 36.dll
+C:\Users\Sergey\Desktop\C#.Education\20.FifthHomework - task 36\bin\Debug\net6.0\20.FifthHomework - task 36.pdb
+C:\Users\Sergey\Desktop\C#.Education\20.FifthHomework - task 36\obj\Debug\net6.0\20.FifthHomework - task 36.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#.Education\20.FifthHomework - task 36\obj\Debug\net6.0\20.FifthHomework - task 36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#.Education\20.FifthHomework - task 36\obj\Debug\net6.0\20.FifthHomework - task 36.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\20.FifthHomework - task 36\obj\Debug\net6.0\20.FifthHomework - task 36.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#.Education\20.FifthHomework - task 36\obj\Debug\net6.0\20.FifthHomework - task 36.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\20.FifthHomework - task 36\obj\Debug\net6.0\20.FifthHomework - task 36.dll
+C:\Users\Sergey\Desktop\C#.Education\20.FifthHomework - task 36\obj\Debug\net6.0\refint\20.FifthHomework - task 36.dll
+C:\Users\Sergey\Desktop\C#.Education\20.FifthHomework - task 36\obj\Debug\net6.0\20.FifthHomework - task 36.pdb
+C:\Users\Sergey\Desktop\C#.Education\20.FifthHomework - task 36\obj\Debug\net6.0\20.FifthHomework - task 36.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#.Education\20.FifthHomework - task 36\obj\Debug\net6.0\ref\20.FifthHomework - task 36.dll
