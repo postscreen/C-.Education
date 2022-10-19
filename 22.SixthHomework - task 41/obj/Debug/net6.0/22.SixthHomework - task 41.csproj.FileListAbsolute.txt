@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#.Education\22.SixthHomework - task 41\obj\Debug\net6.0\22.SixthHomework - task 41.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#.Education\22.SixthHomework - task 41\obj\Debug\net6.0\22.SixthHomework - task 41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#.Education\22.SixthHomework - task 41\obj\Debug\net6.0\22.SixthHomework - task 41.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\22.SixthHomework - task 41\obj\Debug\net6.0\22.SixthHomework - task 41.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#.Education\22.SixthHomework - task 41\obj\Debug\net6.0\22.SixthHomework - task 41.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\22.SixthHomework - task 41\bin\Debug\net6.0\22.SixthHomework - task 41.exe
+C:\Users\Sergey\Desktop\C#.Education\22.SixthHomework - task 41\bin\Debug\net6.0\22.SixthHomework - task 41.deps.json
+C:\Users\Sergey\Desktop\C#.Education\22.SixthHomework - task 41\bin\Debug\net6.0\22.SixthHomework - task 41.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#.Education\22.SixthHomework - task 41\bin\Debug\net6.0\22.SixthHomework - task 41.dll
+C:\Users\Sergey\Desktop\C#.Education\22.SixthHomework - task 41\bin\Debug\net6.0\22.SixthHomework - task 41.pdb
+C:\Users\Sergey\Desktop\C#.Education\22.SixthHomework - task 41\obj\Debug\net6.0\22.SixthHomework - task 41.dll
+C:\Users\Sergey\Desktop\C#.Education\22.SixthHomework - task 41\obj\Debug\net6.0\refint\22.SixthHomework - task 41.dll
+C:\Users\Sergey\Desktop\C#.Education\22.SixthHomework - task 41\obj\Debug\net6.0\22.SixthHomework - task 41.pdb
+C:\Users\Sergey\Desktop\C#.Education\22.SixthHomework - task 41\obj\Debug\net6.0\22.SixthHomework - task 41.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#.Education\22.SixthHomework - task 41\obj\Debug\net6.0\ref\22.SixthHomework - task 41.dll
