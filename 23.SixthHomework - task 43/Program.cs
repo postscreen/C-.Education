@@ -25,7 +25,7 @@ Console.Clear();
 
 // Set data storage ...
 string[] dotNames = new string[4] { "k1", "k2", "b1", "b2" };
-double[] dotValues = new double[4] { 0, 0, 0, 0 };
+double[] dotValues = new double[4] { 1, 0, 1, 0 };
 
 // Show conditions after start ...
 showConditions();
@@ -42,6 +42,20 @@ while( i < dotNames.Length ){
     else
         Console.WriteLine("Itsn't numeric ... Re enter pls ... ");
 
+    if(dotValues[0] == dotValues[1] && dotValues[2] == dotValues[3]){
+
+        i = 0;
+        Console.WriteLine($"Your functions if equal (k1 = k2 and b1 = b2) ... Re-enter pls ... ");
+
+    }
+
+    if (dotValues[0] == dotValues[1])
+    {
+
+        i = 0;
+        Console.WriteLine($"Your k1 = k2 with various b1/b2, it's parallel charts ... Re-enter pls ... ");
+
+    }
 }
 
 // Get inspections points ... 
