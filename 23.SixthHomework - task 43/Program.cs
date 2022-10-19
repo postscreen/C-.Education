@@ -40,7 +40,7 @@ while( i < dotNames.Length ){
     if(itsDouble)
         i++;
     else
-        Console.WriteLine("Itsn't numeric ... Re enter pls ... ");
+        Console.WriteLine("It isn't numeric ... Re enter pls ... ");
 
     if(dotValues[0] == dotValues[1] && dotValues[2] == dotValues[3]){
 
