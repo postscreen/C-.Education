@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#.Education\26.SeventhHomework - task 52\bin\Debug\net6.0\26.SeventhHomework - task 52.exe
+C:\Users\Sergey\Desktop\C#.Education\26.SeventhHomework - task 52\bin\Debug\net6.0\26.SeventhHomework - task 52.deps.json
+C:\Users\Sergey\Desktop\C#.Education\26.SeventhHomework - task 52\bin\Debug\net6.0\26.SeventhHomework - task 52.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#.Education\26.SeventhHomework - task 52\bin\Debug\net6.0\26.SeventhHomework - task 52.dll
+C:\Users\Sergey\Desktop\C#.Education\26.SeventhHomework - task 52\bin\Debug\net6.0\26.SeventhHomework - task 52.pdb
+C:\Users\Sergey\Desktop\C#.Education\26.SeventhHomework - task 52\obj\Debug\net6.0\26.SeventhHomework - task 52.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#.Education\26.SeventhHomework - task 52\obj\Debug\net6.0\26.SeventhHomework - task 52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#.Education\26.SeventhHomework - task 52\obj\Debug\net6.0\26.SeventhHomework - task 52.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\26.SeventhHomework - task 52\obj\Debug\net6.0\26.SeventhHomework - task 52.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#.Education\26.SeventhHomework - task 52\obj\Debug\net6.0\26.SeventhHomework - task 52.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\26.SeventhHomework - task 52\obj\Debug\net6.0\26.SeventhHomework - task 52.dll
+C:\Users\Sergey\Desktop\C#.Education\26.SeventhHomework - task 52\obj\Debug\net6.0\refint\26.SeventhHomework - task 52.dll
+C:\Users\Sergey\Desktop\C#.Education\26.SeventhHomework - task 52\obj\Debug\net6.0\26.SeventhHomework - task 52.pdb
+C:\Users\Sergey\Desktop\C#.Education\26.SeventhHomework - task 52\obj\Debug\net6.0\26.SeventhHomework - task 52.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#.Education\26.SeventhHomework - task 52\obj\Debug\net6.0\ref\26.SeventhHomework - task 52.dll
