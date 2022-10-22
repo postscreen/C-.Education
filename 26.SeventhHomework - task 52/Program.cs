@@ -49,7 +49,7 @@ while (m <= 0 || n <= 0)
 
 }
 
-// Generatem print data and show average value of each column's values ...
+// Generatem print data ...
 Console.Clear();
 Console.WriteLine($"It's array with sizes [{m},{n}]:\r\n");
 Random rnd = new Random();
@@ -72,7 +72,7 @@ for (int i = 0; i < m; i++)
 
 }
 
+// Show average value of each column's values
 Console.WriteLine();
-
 for (int i = 0; i < n; i++)
     Console.WriteLine(string.Format("Column {1} average value of elements {0:0.0000}", Math.Round(averageValue[i] / m, 4), i));
