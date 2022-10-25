@@ -17,7 +17,7 @@
     int usersNumeric = 0;
 
     // Get string by the user and check, maybe user need to stop it ...
-    string usersInput  = Console.ReadLine();
+    string? usersInput  = Console.ReadLine();
     if(usersInput == "q")
         return (0,0);
 
