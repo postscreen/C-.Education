@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sergey\\Desktop\\C#.Education\\12.SecondHomework\\12.SecondHomework.csproj": {}
+    "C:\\Users\\Sergey\\Desktop\\C#.Education\\27.EightHomework - task 56\\27.EightHomework - task 56.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sergey\\Desktop\\C#.Education\\12.SecondHomework\\12.SecondHomework.csproj": {
+    "C:\\Users\\Sergey\\Desktop\\C#.Education\\27.EightHomework - task 56\\27.EightHomework - task 56.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sergey\\Desktop\\C#.Education\\12.SecondHomework\\12.SecondHomework.csproj",
-        "projectName": "12.SecondHomework",
-        "projectPath": "C:\\Users\\Sergey\\Desktop\\C#.Education\\12.SecondHomework\\12.SecondHomework.csproj",
+        "projectUniqueName": "C:\\Users\\Sergey\\Desktop\\C#.Education\\27.EightHomework - task 56\\27.EightHomework - task 56.csproj",
+        "projectName": "27.EightHomework - task 56",
+        "projectPath": "C:\\Users\\Sergey\\Desktop\\C#.Education\\27.EightHomework - task 56\\27.EightHomework - task 56.csproj",
         "packagesPath": "C:\\Users\\Sergey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sergey\\Desktop\\C#.Education\\12.SecondHomework\\obj\\",
+        "outputPath": "C:\\Users\\Sergey\\Desktop\\C#.Education\\27.EightHomework - task 56\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sergey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.CodeAnalysis.CSharp.Scripting": {
-              "target": "Package",
-              "version": "[4.3.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

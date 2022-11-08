@@ -67,6 +67,7 @@ int CheckArraySize(string incomingString)
 // Set variables ...
 int m = 0;
 int n = 0;
+var userData = String.Empty;
 
 // Get array size from user ...
 while (m <= 0 || n <= 0)
@@ -75,13 +76,17 @@ while (m <= 0 || n <= 0)
     if (m <= 0)
     {
         Console.WriteLine("Set rows count (m):");
-        m = CheckArraySize(Console.ReadLine());
+        userData = Console.ReadLine();
+        if(userData != null)
+            m = CheckArraySize(userData);
     }
 
     if (n <= 0)
     {
         Console.WriteLine("Set columns count (n):");
-        n = CheckArraySize(Console.ReadLine());
+        userData = Console.ReadLine();
+        if (userData != null)
+            n = CheckArraySize(userData);
     }
 
 }
@@ -94,7 +99,6 @@ for (int i = 0; i < array.GetLength(0); i++)
     for (int j = 0; j < array.GetLength(1); j++)
         array[i, j] = rnd.Next(1, 10);
 
-
 Console.WriteLine($"Base array [{m} x {n}]: ");
 
 printArray(array);
@@ -102,3 +106,4 @@ array = sortArray(array);
 
 Console.WriteLine($"Sorted array: [{m} x {n}]");
 printArray(array);
+
