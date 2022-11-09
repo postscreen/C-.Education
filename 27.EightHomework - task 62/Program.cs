@@ -33,5 +33,4 @@ void printArray(int[,] arrayToShow)
 // Create array
 
 
-
 // Show array

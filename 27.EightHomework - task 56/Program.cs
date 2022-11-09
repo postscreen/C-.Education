@@ -98,7 +98,7 @@ for (int i = 0; i < array.GetLength(0); i++){
         Console.Write($"{array[i, j]} ");
     }
 
-    Console.WriteLine($"[Sum = {sumOfTheStringData.Item1}]");
+    Console.WriteLine($"[Sum = {sumOfTheStringData.Item1}, Row = {i+1}]");
 
     if(sumOfTheStringData.Item1 < sumOfTheStringData.Item2){
         sumOfTheStringData.Item2 = sumOfTheStringData.Item1;
@@ -109,4 +109,4 @@ for (int i = 0; i < array.GetLength(0); i++){
 
 // Show result ... 
 int Row = sumOfTheStringData.Item3;
-Console.WriteLine($"\r\nThe row where sum of all elements is minimum: {Row+1} [index = {Row}]\r\n");
+Console.WriteLine($"\r\nThe row where sum of all elements is minimum = {Row+1}\r\n");
