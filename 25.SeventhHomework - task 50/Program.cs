@@ -43,19 +43,24 @@ int CheckArraySize(string incomingString)
 }
 
 // Get array size from user ...
+var userData = String.Empty;
 while (x <= 0 || y <= 0)
 {
 
     if (y <= 0)
     {
         Console.WriteLine("Set row position (y):");
-        y = CheckArraySize(Console.ReadLine());
+        userData = Console.ReadLine();
+        if (userData != null)
+            y = CheckArraySize(userData);
     }
 
     if (x <= 0)
     {
         Console.WriteLine("Set column position (x):");
-        x = CheckArraySize(Console.ReadLine());
+        userData = Console.ReadLine();
+        if (userData != null)        
+            x = CheckArraySize(userData);
     }
 
 }

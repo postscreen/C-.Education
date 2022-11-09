@@ -6,11 +6,14 @@ string[] A = new string[0];
 
 // Get data ... 
 while (A.Length != 8){
-    
-    A = Console.ReadLine().ToString().Split(',');
-    if(A.Length != 8)
-        Console.WriteLine($"Count of elements is {A.Length} - need to set 8!");
 
+    var userData = Console.ReadLine();
+    if(userData != null){
+        A = userData.ToString().Split(',');
+        if (A.Length != 8)
+            Console.WriteLine($"Count of elements is {A.Length} - need to set 8!");
+    } else
+        Console.WriteLine($"Incoming data is null!");
 }
 
 Console.WriteLine($"Total count of elements: {A.Length}");

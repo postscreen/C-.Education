@@ -29,18 +29,23 @@ int CheckArraySize(string incomingString){
 }
 
 // Get array size from user ...
+var userData = String.Empty;
 while(m <= 0 || n <= 0){
 
     if (m <= 0)
     {
         Console.WriteLine("Set rows count (m):");
-        m = CheckArraySize(Console.ReadLine());
+        userData = Console.ReadLine();
+        if (userData != null)        
+            m = CheckArraySize(userData);
     }
 
     if (n <= 0)
     {
         Console.WriteLine("Set columns count (n):");
-        n = CheckArraySize(Console.ReadLine());
+        userData = Console.ReadLine();
+        if (userData != null)
+            n = CheckArraySize(userData);
     }
 
 }
