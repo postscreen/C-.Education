@@ -124,7 +124,7 @@ Console.WriteLine("Second matrix: ");
 printArray(secondArray);
 
 // If it impossible to calculate or not ...
-if(sizeOfMatrices["Coll#1"] == sizeOfMatrices["Row#2"] && sizeOfMatrices["Row#1"] == sizeOfMatrices["Coll#2"]){
+if(sizeOfMatrices["Coll#1"] == sizeOfMatrices["Row#2"]){
 
     // Calculate multiply of them ...
     int[,] resultMatrix = new int[sizeOfMatrices["Row#1"], sizeOfMatrices["Coll#2"]];
