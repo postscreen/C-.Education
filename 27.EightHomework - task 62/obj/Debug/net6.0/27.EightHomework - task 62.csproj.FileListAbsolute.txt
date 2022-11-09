@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#.Education\27.EightHomework - task 62\bin\Debug\net6.0\27.EightHomework - task 62.exe
+C:\Users\Sergey\Desktop\C#.Education\27.EightHomework - task 62\bin\Debug\net6.0\27.EightHomework - task 62.deps.json
+C:\Users\Sergey\Desktop\C#.Education\27.EightHomework - task 62\bin\Debug\net6.0\27.EightHomework - task 62.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#.Education\27.EightHomework - task 62\bin\Debug\net6.0\27.EightHomework - task 62.dll
+C:\Users\Sergey\Desktop\C#.Education\27.EightHomework - task 62\bin\Debug\net6.0\27.EightHomework - task 62.pdb
+C:\Users\Sergey\Desktop\C#.Education\27.EightHomework - task 62\obj\Debug\net6.0\27.EightHomework - task 62.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#.Education\27.EightHomework - task 62\obj\Debug\net6.0\27.EightHomework - task 62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#.Education\27.EightHomework - task 62\obj\Debug\net6.0\27.EightHomework - task 62.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\27.EightHomework - task 62\obj\Debug\net6.0\27.EightHomework - task 62.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#.Education\27.EightHomework - task 62\obj\Debug\net6.0\27.EightHomework - task 62.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\27.EightHomework - task 62\obj\Debug\net6.0\27.EightHomework - task 62.dll
+C:\Users\Sergey\Desktop\C#.Education\27.EightHomework - task 62\obj\Debug\net6.0\refint\27.EightHomework - task 62.dll
+C:\Users\Sergey\Desktop\C#.Education\27.EightHomework - task 62\obj\Debug\net6.0\27.EightHomework - task 62.pdb
+C:\Users\Sergey\Desktop\C#.Education\27.EightHomework - task 62\obj\Debug\net6.0\27.EightHomework - task 62.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#.Education\27.EightHomework - task 62\obj\Debug\net6.0\ref\27.EightHomework - task 62.dll
