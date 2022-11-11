@@ -15,7 +15,7 @@ int m = 1;
 int n = 15;
 
 // Recursion ...
-int sumOfNaturalNumerics(int Min, int Max) => Max == 0 ?  0 : sumOfNaturalNumerics(Min, Max - 1) + Max;
+int sumOfNaturalNumerics(int min, int max) => max == 0 ?  0 : sumOfNaturalNumerics(min, max - 1) + max;
 
 // Task solution ... 
 Console.WriteLine(sumOfNaturalNumerics(m, n));
