@@ -19,12 +19,5 @@ int sumOfNaturalNumerics(int Min, int Max) =>
     Max == 0 ?  0 :
     sumOfNaturalNumerics(Min, Max - 1) + Max;
 
-// User interface ...
-while(true){
-
-    
-
-}
-
 // Task solution ... 
 Console.WriteLine(sumOfNaturalNumerics(M, N));

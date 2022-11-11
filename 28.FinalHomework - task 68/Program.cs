@@ -7,19 +7,68 @@
 
 */
 
+// Check that m or n is correct ...
+int checkUserData(string incomingString)
+{
+
+    int attr = -1;
+
+    bool mOk = int.TryParse(incomingString, out attr);
+    if (!mOk)
+    {
+
+        Console.WriteLine("Value is not numeric ... ");
+        return -1;
+
+    }
+    else if (attr <= 0)
+    {
+
+        Console.WriteLine("Value is equal or less than zero ... ");
+        return -1;
+
+    }
+
+    return attr;
+
+}
+
 // Clear place ...
 Console.Clear();
 
-// Set N ...
-int M = 2;
-int N = 3;
+// Set data ...
+(double M, double N) Data = (0,0);
+string userData = String.Empty;
 
 // Ackerman's function ...
-Int64 A(Int64 M, Int64 N) =>
+double A(double M, double N) =>
     M == 0 ? N += 1 :
     M > 0 && N == 0 ? A(M-1, 1) :
     M > 0 && N > 0 ? A(M - 1, A(M, N-1)) :
     0;
 
+// User interface ...
+while (Data.M == 0 || Data.N == 0)
+{
+
+    Console.Clear();
+    if (Data.M <= 0)
+    {
+        Console.WriteLine("Set M:");
+        userData = Console.ReadLine();
+        if (userData != null)
+            Data.M = checkUserData(userData);
+    }
+
+    if (Data.N <= 0)
+    {
+        Console.WriteLine("Set N:");
+        userData = Console.ReadLine();
+        if (userData != null)
+            Data.N = checkUserData(userData);
+    }    
+
+}
+
 // Task solution ... 
-Console.WriteLine(A(M, N));
+Console.WriteLine(A(Data.M, Data.N));
