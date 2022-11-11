@@ -38,13 +38,13 @@ Console.Clear();
 
 // Set data ...
 (int M, int N) Data = (-1,-1);
-string userData = String.Empty;
+var userData = String.Empty;
 
 // Ackerman's function ...
-int A(int M, int N) =>
-    M == 0 ? N += 1 :
-    M > 0 && N == 0 ? A(M-1, 1) :
-    M > 0 && N > 0 ? A(M - 1, A(M, N-1)) :
+int A(int m, int n) =>
+    m == 0 ? n += 1 :
+    m > 0 && n == 0 ? A(m -1, 1) :
+    m > 0 && n > 0 ? A(m - 1, A(m, n-1)) :
     0;
 
 // User interface ...

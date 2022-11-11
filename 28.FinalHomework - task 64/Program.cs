@@ -10,21 +10,21 @@
 Console.Clear();
 
 // Set N ...
-int N = 30;
+int n = 30;
 
 // Recursion ...
-void showNaturalNumerics(int Max){
+void showNaturalNumerics(int max){
 
-    if(Max == 0) return;
+    if(max == 0) return;
     else {
 
-        Console.WriteLine($"{Max}");
-        showNaturalNumerics(Max-1);
+        Console.WriteLine($"{max}");
+        showNaturalNumerics(max-1);
 
     }
 
 }
 
 // Task solution ... 
-showNaturalNumerics(N);
+showNaturalNumerics(n);
 Console.ReadKey();
