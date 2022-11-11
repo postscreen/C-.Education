@@ -37,11 +37,11 @@ int checkUserData(string incomingString)
 Console.Clear();
 
 // Set data ...
-(double M, double N) Data = (-1,-1);
+(int M, int N) Data = (-1,-1);
 string userData = String.Empty;
 
 // Ackerman's function ...
-double A(double M, double N) =>
+int A(int M, int N) =>
     M == 0 ? N += 1 :
     M > 0 && N == 0 ? A(M-1, 1) :
     M > 0 && N > 0 ? A(M - 1, A(M, N-1)) :
