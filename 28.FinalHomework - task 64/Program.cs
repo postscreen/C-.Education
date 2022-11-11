@@ -10,7 +10,7 @@
 Console.Clear();
 
 // Set N ...
-int N = 10;
+int N = 3;
 
 // Recursion ...
 void showNaturalNumerics(int Max){
