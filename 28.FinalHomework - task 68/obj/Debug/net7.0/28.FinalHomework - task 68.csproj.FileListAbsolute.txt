@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\C#.Education\28.FinalHomework - task 68\obj\Debug\net7.0\28.FinalHomework - task 68.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\C#.Education\28.FinalHomework - task 68\obj\Debug\net7.0\28.FinalHomework - task 68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\C#.Education\28.FinalHomework - task 68\obj\Debug\net7.0\28.FinalHomework - task 68.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\28.FinalHomework - task 68\obj\Debug\net7.0\28.FinalHomework - task 68.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\C#.Education\28.FinalHomework - task 68\obj\Debug\net7.0\28.FinalHomework - task 68.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\C#.Education\28.FinalHomework - task 68\bin\Debug\net7.0\28.FinalHomework - task 68.exe
+C:\Users\Sergey\Desktop\C#.Education\28.FinalHomework - task 68\bin\Debug\net7.0\28.FinalHomework - task 68.deps.json
+C:\Users\Sergey\Desktop\C#.Education\28.FinalHomework - task 68\bin\Debug\net7.0\28.FinalHomework - task 68.runtimeconfig.json
+C:\Users\Sergey\Desktop\C#.Education\28.FinalHomework - task 68\bin\Debug\net7.0\28.FinalHomework - task 68.dll
+C:\Users\Sergey\Desktop\C#.Education\28.FinalHomework - task 68\bin\Debug\net7.0\28.FinalHomework - task 68.pdb
+C:\Users\Sergey\Desktop\C#.Education\28.FinalHomework - task 68\obj\Debug\net7.0\28.FinalHomework - task 68.dll
+C:\Users\Sergey\Desktop\C#.Education\28.FinalHomework - task 68\obj\Debug\net7.0\refint\28.FinalHomework - task 68.dll
+C:\Users\Sergey\Desktop\C#.Education\28.FinalHomework - task 68\obj\Debug\net7.0\28.FinalHomework - task 68.pdb
+C:\Users\Sergey\Desktop\C#.Education\28.FinalHomework - task 68\obj\Debug\net7.0\28.FinalHomework - task 68.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\C#.Education\28.FinalHomework - task 68\obj\Debug\net7.0\ref\28.FinalHomework - task 68.dll

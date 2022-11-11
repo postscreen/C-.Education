@@ -15,8 +15,16 @@ int M = 1;
 int N = 3;
 
 // Recursion ...
-int sumOfNaturalNumerics(int Min, int Max) => Max == 0 ?  0 : sumOfNaturalNumerics(Min, Max - 1) + Max;
+int sumOfNaturalNumerics(int Min, int Max) => 
+    Max == 0 ?  0 :
+    sumOfNaturalNumerics(Min, Max - 1) + Max;
+
+// User interface ...
+while(true){
+
+    
+
+}
 
 // Task solution ... 
-int sum = sumOfNaturalNumerics(M, N);
-Console.WriteLine(sum);
+Console.WriteLine(sumOfNaturalNumerics(M, N));
