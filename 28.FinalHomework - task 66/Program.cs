@@ -12,26 +12,10 @@ Console.Clear();
 
 // Set N ...
 int M = 1;
-int N = 9;
+int N = 11;
 
 // Recursion ...
-int sumOfNaturalNumerics(int Min, int Max, int sum = 0)
-{
-
-    if (Max == 0) return sum;
-    else
-    {
-        
-        sum += Max;
-        Max--;
-        sum += sumOfNaturalNumerics(Min, Max - 1, sum);
-        return sum;
-
-    }
-
-    return sum;
-
-}
+int sumOfNaturalNumerics(int Min, int Max) => Max == 0 ?  0 : sumOfNaturalNumerics(Min, Max - 1) + Max;
 
 // Task solution ... 
 int sum = sumOfNaturalNumerics(M, N);

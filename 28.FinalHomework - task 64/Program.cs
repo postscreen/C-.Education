@@ -13,13 +13,13 @@ Console.Clear();
 int N = 10;
 
 // Recursion ...
-void showNaturalNumerics(int Max, int i = 0){
+void showNaturalNumerics(int Max){
 
     if(Max == 0) return;
     else {
 
-        Console.WriteLine($"Iteration {i}: {Max}");
-        showNaturalNumerics(Max-1, i+1);
+        Console.WriteLine($"{Max}");
+        showNaturalNumerics(Max-1);
 
     }
 
