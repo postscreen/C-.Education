@@ -27,3 +27,4 @@ void showNaturalNumerics(int Max){
 
 // Task solution ... 
 showNaturalNumerics(N);
+Console.ReadKey();

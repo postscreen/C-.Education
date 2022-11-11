@@ -21,3 +21,4 @@ int sumOfNaturalNumerics(int Min, int Max) =>
 
 // Task solution ... 
 Console.WriteLine(sumOfNaturalNumerics(M, N));
+Console.ReadKey();

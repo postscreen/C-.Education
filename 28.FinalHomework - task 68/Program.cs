@@ -21,10 +21,10 @@ int checkUserData(string incomingString)
         return -1;
 
     }
-    else if (attr <= 0)
+    else if (attr < 0)
     {
 
-        Console.WriteLine("Value is equal or less than zero ... ");
+        Console.WriteLine("Value is less than zero ... ");
         return -1;
 
     }
@@ -37,7 +37,7 @@ int checkUserData(string incomingString)
 Console.Clear();
 
 // Set data ...
-(double M, double N) Data = (0,0);
+(double M, double N) Data = (-1,-1);
 string userData = String.Empty;
 
 // Ackerman's function ...
@@ -48,11 +48,11 @@ double A(double M, double N) =>
     0;
 
 // User interface ...
-while (Data.M == 0 || Data.N == 0)
+while (Data.M < 0 || Data.N < 0)
 {
 
     Console.Clear();
-    if (Data.M <= 0)
+    if (Data.M < 0)
     {
         Console.WriteLine("Set M:");
         userData = Console.ReadLine();
@@ -60,7 +60,7 @@ while (Data.M == 0 || Data.N == 0)
             Data.M = checkUserData(userData);
     }
 
-    if (Data.N <= 0)
+    if (Data.N < 0)
     {
         Console.WriteLine("Set N:");
         userData = Console.ReadLine();
@@ -71,4 +71,6 @@ while (Data.M == 0 || Data.N == 0)
 }
 
 // Task solution ... 
-Console.WriteLine(A(Data.M, Data.N));
+Console.Clear();
+Console.WriteLine($"Ackerman's function A(M={Data.M}, N={Data.N}) = {A(Data.M, Data.N)}");
+Console.ReadKey();
