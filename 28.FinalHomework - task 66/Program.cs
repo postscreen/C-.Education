@@ -12,7 +12,7 @@ Console.Clear();
 
 // Set N ...
 int M = 1;
-int N = 3;
+int N = 15;
 
 // Recursion ...
 int sumOfNaturalNumerics(int Min, int Max) => 
